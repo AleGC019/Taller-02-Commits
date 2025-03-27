@@ -1,0 +1,27 @@
+{
+  "name": "taller-02-commits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleGC019/Taller-02-Commits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleGC019/Taller-02-Commits/issues"
+  },
+  "homepage": "https://github.com/AleGC019/Taller-02-Commits#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "commitlint-config-gitmoji": "^2.3.1",
+    "husky": "^9.1.7"
+  }
+}
